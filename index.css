@@ -1,3 +1,11 @@
-.content {
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 70%;
+    margin: 100px auto;
+}
+
+.contentBox {
     border: 2px solid black;
 }
